@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FilterTest</string>
+    <string name="loginTv1">주문하신 상품의 계쩡으로 로그인 하시면\n배송 정보를 실시간으로 볼 수 있어요.</string>
+    <string name="loginTv2">꽃피는 시절 비회원 주문 및 SNS 계정(페이스북/네이버등)으로 로그인 \n하여 주문하신 경우,"주문 페이지 바로가기"를 이용해 주세요</string>
+    <string name="BottomTv1">아이디&amp;비밀번호 찾기</string>
+    <string name="BottomTv2">자동 로그인 연결 약관</string>
+    <string name="buttonLogin">로그인</string>
+    <string name="termTv">자동 로그인 약관에 동의</string>
+    <string name="id">아이디</string>
+    <string name="password">비밀번호</string>
+</resources>
